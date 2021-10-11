@@ -122,6 +122,7 @@ daySelect.onchange = function() {
 }
 </script>
 <!-- credit -->
-<!-- Custom Date Dropdown Picker
+<!-- CodePen Home
+Custom Date Dropdown Picker
 Luke F. Courtney -->
 </html>
